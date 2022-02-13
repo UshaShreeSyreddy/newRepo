@@ -1,6 +1,7 @@
 import java.lang.*;
 class Main {
-    int a = 10;
-    int b = 20;
-    System.out.println("a + b = "+a+b);
+    int a = 100;
+    int b = 200;
+    System.out.println("a * b = "+a*b);
+
 }

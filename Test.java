@@ -8,5 +8,5 @@ class Main {
     int res = p*q;
     System.out.println("r = "+res);
     int s = 10;
-    System.out.println("Area = "+s*s);
+    System.out.println("Area of square = "+s*s);
 }

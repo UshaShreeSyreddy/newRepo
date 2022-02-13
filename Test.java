@@ -5,4 +5,6 @@ class Main {
     System.out.println("p * q = "+p*q);
     p *= q;
     Ssytem.out.println("q = "+q);
+    int res = p*q;
+    Ssytem.out.println("r = "+res);
 }

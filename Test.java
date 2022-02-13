@@ -7,4 +7,6 @@ class Main {
     Ssytem.out.println("q = "+q);
     int res = p*q;
     System.out.println("r = "+res);
+    int s = 10;
+    System.out.println("Area = "+s*s);
 }
